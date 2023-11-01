@@ -15,6 +15,11 @@
 ### 전체 시스템 다이어그램
 <img src="/profile/system_diagram.png">
 
+### 모듈 레포지토리
+1. [비즈니스 로직 서버](https://github.com/HongikUniv-CAPSTONE-DESIGN-2023-YDY-1/CAPSTONE_DESIGN_BackEnd_API_Server)
+2. [상품 인식 모듈](https://github.com/HongikUniv-CAPSTONE-DESIGN-2023-YDY-1/CAPSTONE_DESIGN_AI_Module)
+3. [데이터 수집 모듈](https://github.com/HongikUniv-CAPSTONE-DESIGN-2023-YDY-1/CAPSTONE_DESIGN_BackEnd_DATA_SCRAPING)
+4. [안드로이드 어플리케이션](https://github.com/HongikUniv-CAPSTONE-DESIGN-2023-YDY-1/CAPSTON_DESIGN_ANDROID)
 ### 아티클
 
     서비스를 개발하면서 있었던 주요 이슈에 대해 정리한 글들입니다.
