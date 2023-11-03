@@ -25,8 +25,7 @@
     서비스를 개발하면서 있었던 주요 이슈에 대해 정리한 글들입니다.
 
 1. [추천 알고리즘 설계기](https://robinjoon.notion.site/81ea5ddd83f04e6eb81cdc16124c620f?pvs=4)
-2. MariaDB JSON타입과 Spring Data JPA
-3. 잘못된 추상화의 폐해
-4. 상품 인식 모듈 성능 개선기
-5. 데이터 크롤링 이슈
-6. AWS 사용 실패기
+2. 잘못된 추상화의 폐해
+3. 상품 인식 모듈 성능 개선기
+4. [데이터 수집 모듈 성능 개선기](https://robinjoon.notion.site/25d0b94ca1394fc8a579d691d5dcd34a?pvs=4)
+5. AWS 사용 실패기
