@@ -1,7 +1,6 @@
 # 편의점 할인 정보 통합 조회 서비스 : 편킹
 
     💡 편의점마다 다른 수많은 행사 상품.. 어디서 사는게 가장 저렴할까? 편킹에서 찾아봐야지~!
-
 ## 핵심 기능
 
 ### 추천 상품 목록
@@ -24,8 +23,9 @@
 
     서비스를 개발하면서 있었던 주요 이슈에 대해 정리한 글들입니다.
 
-1. [추천 알고리즘 설계기](https://robinjoon.notion.site/81ea5ddd83f04e6eb81cdc16124c620f?pvs=4)
-2. 잘못된 추상화의 폐해
-3. 상품 인식 모듈 성능 개선기
-4. [데이터 수집 모듈 성능 개선기](https://robinjoon.notion.site/25d0b94ca1394fc8a579d691d5dcd34a?pvs=4)
-5. AWS 사용 실패기
+1. [편의점 할인 정보 모아보기 라는 주제를 정하기까지 있었던 일](https://robinjoon.notion.site/599b75adbbbf40a78904067af52c2775?pvs=4)
+2. [추천 알고리즘 설계기](https://robinjoon.notion.site/81ea5ddd83f04e6eb81cdc16124c620f?pvs=4)
+3. 잘못된 추상화의 폐해
+4. 상품 인식 모듈 성능 개선기
+5. [데이터 수집 모듈 성능 개선기](https://robinjoon.notion.site/25d0b94ca1394fc8a579d691d5dcd34a?pvs=4)
+6. AWS 사용 실패기
