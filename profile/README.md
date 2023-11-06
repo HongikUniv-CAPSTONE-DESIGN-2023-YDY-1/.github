@@ -28,7 +28,5 @@
 
 1. [편의점 할인 정보 모아보기 라는 주제를 정하기까지 있었던 일](https://robinjoon.notion.site/599b75adbbbf40a78904067af52c2775?pvs=4)
 2. [추천 알고리즘 설계기](https://robinjoon.notion.site/81ea5ddd83f04e6eb81cdc16124c620f?pvs=4)
-3. 잘못된 추상화의 폐해
-4. 상품 인식 모듈 성능 개선기
-5. [데이터 수집 모듈 성능 개선기](https://robinjoon.notion.site/25d0b94ca1394fc8a579d691d5dcd34a?pvs=4)
-6. AWS 사용 실패기
+3. [상품 인식 모듈 성능 개선기](https://robinjoon.notion.site/c234ada4cf0748768a6836648de5b31c?pvs=4)
+4. [데이터 수집 모듈 성능 개선기](https://robinjoon.notion.site/25d0b94ca1394fc8a579d691d5dcd34a?pvs=4)
