@@ -2,7 +2,7 @@
 
     💡 편의점마다 다른 수많은 행사 상품.. 어디서 사는게 가장 저렴할까? 편킹에서 찾아봐야지~!
 ## 어플리케이션
-<img src="/profile/앱%20주요%20UI.png">
+<img src="https://github.com/HongikUniv-CAPSTONE-DESIGN-2023-YDY-1/.github/blob/main/profile/%EC%95%B1%20%EC%A3%BC%EC%9A%94%20UI.png?raw=true" alt="어플리케이션 UI">
 
 ## 핵심 기능
 
@@ -15,7 +15,7 @@
 
 ## 시스템 아키텍처
 ### 전체 시스템 다이어그램
-<img src="/profile/system_diagram.png">
+<img src="https://github.com/HongikUniv-CAPSTONE-DESIGN-2023-YDY-1/.github/blob/main/profile/system_diagram.png?raw=true" alt="시스템 다이어그램">
 
 ### 모듈 레포지토리
 1. [비즈니스 로직 서버](https://github.com/HongikUniv-CAPSTONE-DESIGN-2023-YDY-1/CAPSTONE_DESIGN_BackEnd_API_Server)
