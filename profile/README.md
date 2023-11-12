@@ -11,7 +11,7 @@
 >💡 `상품의 사진`을 찍으면 해당 상품의 할인 정보를 제공합니다!
 
 ### 3️⃣ 동작 동영상
-<center><img src="demo.gif" width="30%" alt="동작 영상" loop = ></center>
+<center><img src="profile/demo.gif" width="30%" alt="동작 영상" loop = ></center>
 
 ## 🛠️ 시스템 구성 모듈
 ### 🧩시스템 구성 모듈 다이어그램
