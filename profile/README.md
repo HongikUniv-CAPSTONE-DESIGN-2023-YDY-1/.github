@@ -41,7 +41,7 @@
 2. [추천 알고리즘 설계기](https://robinjoon.notion.site/81ea5ddd83f04e6eb81cdc16124c620f?pvs=4)
 3. [상품 인식 모듈 성능 개선기](https://robinjoon.notion.site/c234ada4cf0748768a6836648de5b31c?pvs=4)
 4. [데이터 수집 모듈 성능 개선기](https://robinjoon.notion.site/25d0b94ca1394fc8a579d691d5dcd34a?pvs=4)
-
+5. [홍익대학교 소프트웨어융합학과 학술제 발표자료](https://drive.google.com/file/d/1mp1IOnpVBGewhU8-7EM9_uh1Bzj8YbDF/view?usp=sharing)
 ## 리크루팅
 > 함께 프로젝트를 더욱 고도화 하여 `런칭 및 운영`을 하실 팀원을 모집합니다! 자세한 사항은 아래 노션에서 확인해주세요!!
 > 
